@@ -843,8 +843,7 @@ mongodb@^2.2.5:
     readable-stream "2.1.5"
 
 morgan@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/morgan/-/morgan-1.7.0.tgz#eb10ca8e50d1abe0f8d3dad5c0201d052d981c62"
+  version "1.9.1"
   dependencies:
     basic-auth "~1.0.3"
     debug "~2.2.0"
